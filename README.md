@@ -26,7 +26,7 @@
                  <br>
  <br>
 
-  Usage        : Compile and run the file. Each pattern block can executed individually for testing.
+  Usage        : Compile and run the file. Each pattern block can be executed individually for testing.
 
   
 
