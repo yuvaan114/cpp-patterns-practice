@@ -13,11 +13,17 @@
 
 
   Key Concepts :
+  <br>
                  - Nested loops
+                 <br>
                  - ASCII character arithmetic
+                 <br>
                  - Loop segmentation (spaces, symbols)
+                 <br>
                  - Conditional printing
+                 <br>
                  - Loop boundary control
+                 <br>
  <br>
 
   Usage        : Compile and run the file. Each pattern block can executed individually for testing.
