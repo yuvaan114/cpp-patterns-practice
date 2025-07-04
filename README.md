@@ -1,2 +1,22 @@
-# cpp-patterns-practice
-This a basic pattern practice repo
+
+  Title        : Pattern Printing Problems in C++
+  Author       : Yuvaan Chottani
+  Description  : This C++ file contains solutions to a variety of pattern
+                 printing problems. Each pattern demonstrates the use of nested
+                 loops, conditionals, and character/number manipulation.
+                 These examples serve as a fundamental exercise to strengthen
+                 control flow understanding (loops and conditionals), and help
+                 beginners master logic building in C++.
+
+  Key Concepts :
+                 - Nested loops
+                 - ASCII character arithmetic
+                 - Loop segmentation (spaces, symbols)
+                 - Conditional printing
+                 - Loop boundary control
+
+  Usage        : Compile and run the file. Each pattern block can executed individually for testing.
+
+  
+
+
