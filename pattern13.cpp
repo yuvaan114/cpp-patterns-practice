@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    char n = 'D';  // Last starting character (4 lines: A to D)
+    char n = 'D';  
     for (char i = 'A'; i <= n; i++) {
         for (char j = i; j >= 'A'; j--) {
             cout << j;
